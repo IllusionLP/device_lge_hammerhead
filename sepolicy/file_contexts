@@ -151,3 +151,4 @@
 
 # Thermal engine
 /dev/msm_thermal_query            u:object_r:thermal_engine_device:s0
+
