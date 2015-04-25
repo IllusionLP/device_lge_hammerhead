@@ -18,5 +18,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="hammerhead-user 5.1 LMY47I 1767468 release-keys"
 
 # Inherit media effect blobs
--include vendor/rascarlo/products/common_media_effects.mk
+-include vendor/aosip/products/common_media_effects.mk
 
